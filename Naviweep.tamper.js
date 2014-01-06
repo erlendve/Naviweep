@@ -16,7 +16,7 @@ function fillWeekdaysWithHours(event) {
     //event.target.data('foo', 'bar');
     //alert('moo');
     $(event.target).parent().parent().find('td > span > input:not(:hidden)').slice(0, -2).val(7.5);
-} 
+}
 
 // common function in css to change css style
 function addGlobalStyle(css) {
