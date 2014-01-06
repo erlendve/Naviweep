@@ -1,10 +1,12 @@
 // ==UserScript==
-// @name       Naviweep
-// @namespace  http://use.i.E.your.homepage/
-// @version    0.1
-// @description  Theme to make Naviwep less awful
-// @match      https://naviwep.steria.no/NaviWEB/timereg_direct.aspx
-// @copyright  2014+, Erlend
+// @name      	Naviweep
+// @namespace 	https://github.com/erlendve/
+// @homepage	https://github.com/erlendve/
+// @downloadURL https://github.com/erlendve/Naviweep/raw/Naviweep.tamper.js
+// @version   	0.1
+// @description Theme to make Naviwep less awful
+// @match      	https://naviwep.steria.no/NaviWEB/timereg_direct.aspx
+// @copyright  	2014+, Erlend Vestad
 // @require     http://code.jquery.com/jquery-1.10.1.min.js
 // ==/UserScript==
 
