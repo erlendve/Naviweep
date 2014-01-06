@@ -2,7 +2,6 @@
 // @name      	Naviweep
 // @namespace 	https://github.com/erlendve/Naviweep
 // @homepage	https://github.com/erlendve/Naviweep
-// @updateURL 	https://github.com/erlendve/Naviweep/raw/Naviweep.tamper.js
 // @downloadURL https://github.com/erlendve/Naviweep/raw/Naviweep.tamper.js
 // @version   	0.12
 // @description Theme to make Naviwep less awful
