@@ -3,7 +3,7 @@
 // @namespace 	https://github.com/erlendve/Naviweep
 // @homepage	https://github.com/erlendve/Naviweep
 // @downloadURL https://raw.github.com/erlendve/Naviweep/master/Naviweep.tamper.js
-// @version   	0.11
+// @version   	0.12
 // @description Theme to make Naviwep less awful
 // @match      	https://naviwep.steria.no/NaviWEB/timereg_direct.aspx
 // @copyright  	2014+, Erlend Vestad
