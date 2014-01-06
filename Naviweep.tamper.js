@@ -30,7 +30,7 @@ function addGlobalStyle(css) {
 }
 
 function test() {
-	$("tr.rgEditRow > td:nth-child(5)").append('<button data-hours="7.5" type="button" style="float: right">7,5</button>');//.click({hours: 7.5}, fillWeekdaysWithHours);
+    $("tr.rgEditRow > td:nth-child(5)").append('<button data-hours="7.5" type="button" style="float: right">Roar er lat</button>');//.click({hours: 7.5}, fillWeekdaysWithHours);
     $("tr.rgEditRow > td:nth-child(5) > button").click(fillWeekdaysWithHours);
    	
     $('link').attr('href',"//netdna.bootstrapcdn.com/bootswatch/3.0.3/flatly/bootstrap.min.css");
